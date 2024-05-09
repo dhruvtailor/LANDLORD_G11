@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LANDLORD_G11</string>
+
+    <string-array name="rental_type">
+        <item>HOUSE</item>
+        <item>CONDO</item>
+        <item>APARTMENT</item>
+    </string-array>
+
+</resources>

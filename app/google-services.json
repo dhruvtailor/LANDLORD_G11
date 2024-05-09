@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "459162813417",
+    "project_id": "android-project-g11",
+    "storage_bucket": "android-project-g11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459162813417:android:0f32502222b1e4acce4178",
+        "android_client_info": {
+          "package_name": "com.example.landlord_g11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3HgNXzi94vJ56eh8kge3B-eg1Kovrcuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

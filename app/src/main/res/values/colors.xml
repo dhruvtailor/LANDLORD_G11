@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="error_text_color">#FF0000</color> <!-- Red color -->
+    <color name="error_background_color">#FFCDD2</color> <!-- Light red color -->
+</resources>
